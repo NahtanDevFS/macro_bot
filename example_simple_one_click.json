@@ -1,0 +1,42 @@
+[
+    {
+        "type": "WaitAction",
+        "seconds": 0.09597277641296387
+    },
+    {
+        "type": "KeyPressAction",
+        "key": "Key.f8",
+        "pressed": false
+    },
+    {
+        "type": "WaitAction",
+        "seconds": 1.326113224029541
+    },
+    {
+        "type": "ClickAction",
+        "x": 1832,
+        "y": 575,
+        "button": "left",
+        "pressed": true
+    },
+    {
+        "type": "WaitAction",
+        "seconds": 0.1029665470123291
+    },
+    {
+        "type": "ClickAction",
+        "x": 1832,
+        "y": 575,
+        "button": "left",
+        "pressed": false
+    },
+    {
+        "type": "WaitAction",
+        "seconds": 1.1293604373931885
+    },
+    {
+        "type": "KeyPressAction",
+        "key": "Key.f8",
+        "pressed": true
+    }
+]

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+venv/
+env/
+.env
+
+*.json
+
+!example_simple_one_click.json
